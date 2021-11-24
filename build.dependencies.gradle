@@ -22,7 +22,7 @@ dependencies {
     implementation 'org.firstinspires.ftc:gameAssets-FreightFrenzy:1.0.0'
     implementation 'org.apache.commons:commons-math3:3.6.1'
 
-    implementation 'com.acmerobotics.roadrunner:core:0.5.3'
+    implementation 'com.acmerobotics.roadrunner:core:0.5.4'
 
 
     //FTC Dashboard

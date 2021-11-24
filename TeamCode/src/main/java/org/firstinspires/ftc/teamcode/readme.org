@@ -2,6 +2,11 @@
 #+DESCRIPTION: A document which details the (curently work-in-progress) naming conventions for Team 9686
 
 * Naming Conventions
+** Command-Based Stuff
+*** Subsystem
+- End variable w/ capital S
+*** Command
+- End with _Com
 ** Motors
   - Drivetrain Motors
     - Mecanum Drivetrain
